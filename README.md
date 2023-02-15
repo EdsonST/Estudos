@@ -10,4 +10,5 @@
 
 * [Estudos para desenvolvimento de habilidades para DevOps](#descrição-do-projeto)
 * [Desenvolvido por: Edson Santos](#pessoas-desenvolvedoras)
+* [Tecnologias Utilizadas: JS](#tecnologias)
 * [Versão: 1.1.2023](#licença)
