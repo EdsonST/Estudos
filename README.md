@@ -13,4 +13,5 @@
 * [Tecnologias Utilizadas: JS](#tecnologias)
 * [Versão: 1.1.2023](#licença)
 
-* Acompanhe o andamento dos meus estudos via TRELLO pelo site "https://trello.com/b/uMVIDzgc/escola-de-devops"
+# Acompanhe o andamento dos meus estudos via TRELLO pelo site:
+https://trello.com/b/uMVIDzgc/escola-de-devops
